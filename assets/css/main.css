@@ -738,7 +738,7 @@ header {
         left: 0;
         right: 0;
         width: 90% !important;
-        margin: 0 auto !important;
+        margin: 10px auto !important;
         grid-template-columns: repeat(2, 1fr) !important;
     }
     .info_block {
